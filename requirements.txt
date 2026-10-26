@@ -1,0 +1,7 @@
+openai
+python-dotenv
+PySide6
+sounddevice
+soundfile
+requests
+Pillow
